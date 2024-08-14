@@ -1,10 +1,10 @@
 ## seja bem vindo (a) ao meu perfil 
 
- • meu nome é Maria Clara 
+👋 • meu nome é Maria Clara 
 
- • eu gosto muito de maquiagem 
+💄 • eu gosto muito de maquiagem 
 
-• uso esse espaço para arquivar alguns trabalhos 
+📂• uso esse espaço para arquivar alguns trabalhos 
  do Javascript 
 
  ### você pode entrar em contato comigo 
